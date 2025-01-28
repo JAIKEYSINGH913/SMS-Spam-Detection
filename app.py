@@ -9,6 +9,8 @@ from PIL import Image
 # Download necessary NLTK resources
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('stopwords')
+nltk.download('corpus')
 
 # Initialize PorterStemmer
 ps = PorterStemmer()
