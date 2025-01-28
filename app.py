@@ -80,6 +80,6 @@ if st.button("Predict"):
 # Footer
 st.markdown("---")
 st.markdown(
-    "Developed with ❤️ by JAIKEY SINGH using **Streamlit**, **NLTK**, and **Scikit-learn**. "
+    "Developed by JAIKEY SINGH using **Streamlit**, **NLTK**, and **Scikit-learn**. "
     "For more projects, visit our [GitHub](https://github.com/JAIKEYSINGH913)."
 )
